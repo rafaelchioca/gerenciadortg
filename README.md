@@ -23,12 +23,11 @@
 
 - Problema: 
 
- <img src="./src/image/Problema.png" alt="Problema" style="width: 720px">
- 
- 
+ <img src="./src/image/Problema.png" alt="Problema">
+
    Como coordenador de curso em uma instituição de ensino, enfrento desafios significativos na gestão dos Trabalhos de Conclusão de Curso (TCC), Trabalhos de Graduação (TG) e Projetos Integradores (PI). Atualmente, os processos manuais de coleta de informações, agendamento de bancas e registro de notas consomem considerável tempo e são propensos a erros.
-   
-   A necessidade de acompanhar vários projetos simultaneamente, envolvendo alunos de diferentes níveis acadêmicos, torna desafiador atribuir orientadores de forma eficiente, considerando a disponibilidade de cada professor.
+
+   A necessidade de acompanhar vários projetos simultaneamente, envolvendo alunos de diferentes níveis acadêmicos, torna desafiador atribuir orientadores de forma eficiente, considerando a disponibilidade de cada professor
    
    Ao buscar ferramentas que pudessem otimizar o acompanhamento do progresso dos alunos e facilitar a comunicação entre os envolvidos, constatei a ausência de uma solução digital dedicada ao processo de gestão de trabalhos acadêmicos. Essa lacuna compromete a eficiência do processo, impactando a coordenação de orientadores, a atribuição eficiente de projetos e a transparência no gerenciamento de TG/TCC.
 
@@ -43,6 +42,8 @@
     Gostaria de ter uma visão em tempo real do progresso dos projetos, permitindo-me identificar marcos atingidos e garantir que os prazos sejam cumpridos. Além disso, espero que a solução forneça relatórios e análises que me auxiliem na tomada de decisões e na melhoria contínua do processo de gestão de TG/TCC.
 
     Como resultado, pretendo coordenar orientadores de forma mais eficiente, reduzir o tempo gasto em processos manuais, implementar uma ferramenta digital integrada para acompanhamento do progresso dos alunos e fortalecer a reputação acadêmica da instituição. Desejo proporcionar uma melhor experiência aos alunos e aumentar a satisfação dos professores orientadores.
+
+    Ao contar com uma ferramenta que atenda a essas necessidades, almejo fortalecer a reputação acadêmica da instituição, proporcionando uma experiência mais satisfatória tanto para os alunos quanto para os professores orientadores.
 
 - Atores: 
 
@@ -110,7 +111,7 @@
 
   What – Os desafios concentram-se na coordenação, comunicação e avaliação dos projetos acadêmicos. Isso inclui a falta de um sistema eficiente de gerenciamento, resultando em atrasos, erros de comunicação e uma avaliação menos transparente e padronizada dos Trabalhos de Graduação. Esses obstáculos prejudicam a experiência dos alunos e a capacidade dos professores orientadores de fornecer orientação de alta qualidade.
 
-  How - O problema ...
+  How - Buscaremos abordar os desafios na coordenação, comunicação e avaliação de Trabalhos de Graduação (TCC, TG, PI). A equipe concentrará esforços na compreensão profunda das dores enfrentadas pelos coordenadores, professores e membros de bancas examinadoras. A abordagem será orientada para identificar oportunidades de melhoria nos processos existentes, priorizando a clareza na comunicação, eficiência na coordenação e uma avaliação mais padronizada e transparente dos projetos acadêmicos. O desenvolvimento será iterativo, com feedback constante dos usuários para ajustes que maximizem a eficácia na gestão de Trabalhos Acadêmicos.
 
 <span id="personas">
 
@@ -118,11 +119,11 @@
 
  <img src="./src/image/personas/Persona Aluno.png" alt="Persona do aluno">
 
- <img src="./src/image/personas/Persona Coordenador TG.png" alt="Persona do orientador">
+ <img src="./src/image/personas/Persona Professor Orientador.png" alt="Persona do orientador">
 
  <img src="./src/image/personas/Persona Membro Banca.png" alt="Persona do membro da banca examinadora">
 
- <img src="./src/image/personas/Persona Professor Orientador.png" alt="Persona do coordenador de TG">
+ <img src="./src/image/personas/Persona Coordenador TG.png" alt="Persona do coordenador de TG">
 
 <span id="suposicoes_hipoteses-validacao">
 
@@ -139,6 +140,12 @@
 ### Validação
     
 <img src="./src/image/shv/Validação.png" alt="Validação">
+
+<span id="comoNosPodemos">
+
+### Como nós podemos (HMW)
+    
+<img src="./src/image/shv/ComoNosPodemosUX.png" alt="Como nós podemos">
 
 <span id="benchmark">
 
@@ -161,23 +168,26 @@
 
 ## 8. Wireframes 
 
+[Wireframe no Figma](https://www.figma.com/file/fQyzTcm7WzskXrzZ7zPyuR/UX-Project?type=design&node-id=36%3A6&mode=design&t=1OT5A7iK3kH1SP0H-1)
 
 <span id="styleguide">
 
 ## 9. Styleguide 
 
+<img src="./src/image/styleguide/StyleGuide.png" alt="Styleguide">
 
 <span id="prototipo">
 
 ## 10. Protótipo de Alta Fidelidade 
 
-[Protótipo de alta fidelidade no Figma](https://link-do-protótipo)
+[Protótipo de alta fidelidade no Figma](https://www.figma.com/proto/fQyzTcm7WzskXrzZ7zPyuR/UX-Project?page-id=36%3A5&type=design&node-id=57-992&viewport=582%2C411%2C0.13&t=nJCUHBVIMOTPk9dh-1&scaling=contain&starting-point-node-id=49%3A2597&mode=design)
+
 
 <span id="avaliacaoHeuristica">
 
 ## 11. Avaliação Heurística 
 
-[Avaliação Heurística](https://link-da-avaliaçãoHeurística)
+[Avaliação Heurística](https://drive.google.com/drive/folders/1SriNhxIgCBTcza1YQzXbmUAKbgjV7Zxp?usp=sharing)
 
 <span id="membros">
 
