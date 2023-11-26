@@ -151,6 +151,42 @@
 
 ## 5. Benchmark 
 
+Com a análise detalhada do benchmark, conseguimos extrair aprendizados cruciais para a concepção de uma solução eficaz no cenário atual de gestão acadêmica. Ao entender as soluções existentes e os problemas que elas endereçam, podemos direcionar nossos esforços para preencher as lacunas identificadas, proporcionando um produto que realmente agregue valor ao mercado educacional. 
+
+Analisamos as seguintes soluções de mercado existentes:
+
+- EasyChair;
+
+- SGA (Sistema de Gestão Acadêmica);
+
+- TCC online;
+
+- Sistema Tainacan;
+
+- TOTVS;
+
+- MOODLE.
+
+Com as seguintes questões a serem analisadas:
+
+- O produto oferece uma funcionalidade eficiente de controle de agenda para a coordenação de TG/TCC?
+
+- O produto facilita a criação eficiente de trabalhos de graduação?
+
+- O produto fornece ferramentas abrangentes para a gestão acadêmica relacionada a TG/TCC?
+
+- O produto suporta uma gestão eficaz de projetos acadêmicos?
+
+- O produto possui um sistema padronizado para inclusão da nota avaliativa em trabalhos acadêmicos?
+
+- O produto apresenta uma interface amigável para usuários envolvidos na gestão de TG/TCC?
+
+- O produto oferece integração com outros sistemas relevantes para a gestão de TG/TCC?
+
+- O produto garante segurança adequada dos dados relacionados a TG/TCC?
+
+
+
 <img src="./src/image/benchmark/benchmark.png" alt="Benchmark">
 
 <span id="mapaJornada">
@@ -163,6 +199,7 @@
 
 ## 7. Rabiscoframes 
 
+<img src="./src/image/rabiscoframes/Rabiscoframe.jpeg" alt="Rabiscoframe">
 
 <span id="wireframes">
 
@@ -180,7 +217,7 @@
 
 ## 10. Protótipo de Alta Fidelidade 
 
-[Protótipo de alta fidelidade no Figma](https://www.figma.com/proto/fQyzTcm7WzskXrzZ7zPyuR/UX-Project?page-id=36%3A5&type=design&node-id=57-992&viewport=582%2C411%2C0.13&t=nJCUHBVIMOTPk9dh-1&scaling=contain&starting-point-node-id=49%3A2597&mode=design)
+[Protótipo de alta fidelidade no Figma](https://www.figma.com/proto/fQyzTcm7WzskXrzZ7zPyuR/UX-Project?page-id=36%3A5&type=design&node-id=49-2597&viewport=483%2C371%2C0.08&t=ZxDKuKYHz6WG4Laf-1&scaling=scale-down-width&starting-point-node-id=49%3A2597&show-proto-sidebar=1&mode=design)
 
 
 <span id="avaliacaoHeuristica">
